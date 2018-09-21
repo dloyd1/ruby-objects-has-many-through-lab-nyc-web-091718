@@ -25,7 +25,6 @@ def genres
    songs.map(&:genre)
 end
 
-end
-end
+
 
 #binding.pry
