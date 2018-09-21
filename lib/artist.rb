@@ -26,5 +26,4 @@ def genres
 end
 
 
-
-#binding.pry
+end
